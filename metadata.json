@@ -1,0 +1,6 @@
+{
+  "name": "Task Reporter",
+  "description": "Create, manage, and share daily work reports in a WhatsApp-friendly format with AI-assisted task generation, templates, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
